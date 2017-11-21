@@ -8,6 +8,7 @@
 			width: 900px;
 			height: 750px;
 			margin: 20px auto 20px auto;
+			background-color: red;
 			}
 				
 		.header{
